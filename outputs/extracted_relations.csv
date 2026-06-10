@@ -1,0 +1,4 @@
+relation_id,abstract_id,source_entity,relation,target_entity,evidence_sentence,confidence
+R001,A001,Interleukin-6,associated_with,inflammatory response,"Interleukin-6 is associated with inflammatory response activation in several biomedical studies.",0.82
+R002,A002,TP53,involved_in,DNA damage response,"TP53 is involved in DNA damage response and cell cycle regulation.",0.91
+R003,A003,EGFR,linked_to,cell proliferation,"EGFR activation has been linked to downstream signaling pathways involved in cell proliferation.",0.76
